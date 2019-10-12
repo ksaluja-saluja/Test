@@ -1,9 +1,9 @@
 const first = {
-	simpleFunction: function(va) {
+	simpleFunction1: function(va) {
 		console.log('hello' + va)
 	}
 }
 
-first.simpleFunction('123')
+first.simpleFunction1('12345')
 
 //this is sample program to display parameter....
