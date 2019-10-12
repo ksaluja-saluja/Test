@@ -1,6 +1,9 @@
 const first = {
 	simpleFunction1: function(va) {
 		console.log('hello' + va)
+	},
+	simpleFunction2: function(va) {
+		console.log('hello' + va)
 	}
 }
 
