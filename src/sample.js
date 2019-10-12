@@ -3,7 +3,7 @@ const first = {
 		console.log('hello5' + va)
 	},
 	simpleFunction2: function(va) {
-		console.log('hello' + va)
+		console.log('hello6' + va)
 	},
 	simpleFunction3: function(va) {
 		console.log('hello' + va)
