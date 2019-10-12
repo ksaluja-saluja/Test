@@ -6,4 +6,4 @@ const first = {
 
 first.test('123')
 
-//this is sample program to display parameter
+//this is sample program to display parameter..
