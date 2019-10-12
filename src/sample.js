@@ -5,7 +5,7 @@ const first = {
 	simpleFunction2: function(va) {
 		console.log('hello6' + va)
 	},
-	simpleFunction3: function(va) {
+	simpleFunction13: function(va) {
 		console.log('hello' + va)
 	},
 	simpleFunction10: function(va) {
