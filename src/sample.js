@@ -8,7 +8,7 @@ const first = {
 	simpleFunction3: function(va) {
 		console.log('hello' + va)
 	},
-	simpleFunction4: function(va) {
+	simpleFunction10: function(va) {
 		console.log('hello' + va)
 	}
 
