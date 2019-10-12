@@ -1,6 +1,6 @@
 const first = {
-	test: function(val) {
-		console.log('hello' + val)
+	test: function(va) {
+		console.log('hello' + va)
 	}
 }
 
