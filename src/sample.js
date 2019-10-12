@@ -1,7 +1,7 @@
 const first = {
-	test: function() {
-		console.log('hello')
+	test: function(val) {
+		console.log('hello' + val)
 	}
 }
 
-first.test()
+first.test('123')
