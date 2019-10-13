@@ -1,0 +1,8 @@
+git branch - to display all branches
+git log - to display all commits across branches
+git log --oneline - short summary of git log
+git commit --amend - update previous commit
+git reset --hard <<commit>> remove all changes on top of commit
+git reset --soft <<commit>> do not remove other changes on top of commit,
+	but put all commit(s) changes to staging again
+git checkout - switch to other branch
